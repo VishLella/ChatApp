@@ -1,0 +1,40 @@
+
+.search {
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.searchBar {
+    gap: 20px;
+    flex: 1;
+    display: flex;
+    background-color: rgba(17, 25, 40, 0.5);
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.searchBar img {
+    width: 20px;
+    height: 20px;
+}
+
+.searchBar input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    flex:1;
+}
+
+.add{
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    background-color: rgba(17, 25, 40, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
