@@ -39,7 +39,48 @@ const Chat = () => {
                     <img src="./info.png" alt="" />
                 </div>
             </div>
-            <div className="chat_center"></div>
+            <div className="chat_center">
+                <div className="message">
+                    <img src="./avatar.png" alt="" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+                <div className="message_own">
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt="" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt="" />
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+                <div className="message_own">
+                    <div className="texts">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+                <div className="message_own">
+                    <div className="texts">
+                        <img src="https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA" alt="" />
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <span>5 min ago</span>
+                    </div>
+                </div>
+            </div>
             <div className="chat_bottom">
                 <div className="send_icons">
                     <img src="./img.png" alt="" className="" />
